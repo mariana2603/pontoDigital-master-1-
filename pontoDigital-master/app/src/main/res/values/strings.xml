@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">projeto</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Relatório</string>
+    <string name="title_notifications">Agenda</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_hint">E-mail</string>
+    <string name="password_hint">Senha</string>
+    <string name="enter_button">Entrar</string>
+
+</resources>
